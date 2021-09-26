@@ -14,10 +14,7 @@ public:
 	}
 };
 
-int main() {
-
-	SandBox* sandbox = new SandBox();
-	sandbox->Run();
-	delete sandbox;
-
- }
+BlackBird::Application* BlackBird::CreateApplication()
+{
+	return new SandBox();
+}
