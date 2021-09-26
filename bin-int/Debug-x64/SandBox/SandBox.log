@@ -1,0 +1,3 @@
+﻿  Application.cpp
+C:\dev\BlackBird\SandBox\src\Application.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SandBox.vcxproj -> C:\dev\BlackBird\bin\Debug-x64\SandBox\SandBox.exe
