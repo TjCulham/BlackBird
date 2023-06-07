@@ -1,2 +1,2 @@
 # BlackBird
-BlackBird Engine
+BlackBird Game Engine
